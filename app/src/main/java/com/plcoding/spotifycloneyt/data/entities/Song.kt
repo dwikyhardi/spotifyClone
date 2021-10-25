@@ -1,4 +1,4 @@
-package com.dwiky.spotifycloneyt.data.entities
+package com.plcoding.spotifycloneyt.data.entities
 
 data class Song (
     val mediaId: String = "",
