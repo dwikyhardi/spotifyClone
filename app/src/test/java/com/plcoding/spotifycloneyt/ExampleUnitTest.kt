@@ -1,4 +1,4 @@
-package com.plcoding.spotifycloneyt
+package com.dwiky.spotifycloneyt
 
 import org.junit.Test
 
